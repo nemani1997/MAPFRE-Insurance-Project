@@ -19,3 +19,21 @@ The MAPFRE Insurance Project leverages Guidewire Suite for monitoring insurance 
 🟡 Minor (Low Priority) – Small-scale bugs with minimal impact.
 
 By combining Guidewire & ServiceNow, the MAPFRE project improved operational monitoring, reporting, and real-time issue tracking.
+MAPFRE-Insurance-Project/
+│
+├── 1_Guidewire-Monitoring/
+│   ├── README.md
+│   ├── PolicyCenter.md
+│   ├── BillingCenter.md
+│   ├── ClaimCenter.md
+│   ├── Job-Status-Monitoring.md
+│   └── Screenshots/
+│
+├── 2_ServiceNow-Ticketing/
+│   ├── README.md
+│   ├── Ticketing-Workflow.md
+│   ├── Priority-Levels.md
+│   ├── Incident-LifeCycle.md
+│   └── Screenshots/
+│
+└── README.md
