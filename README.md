@@ -27,7 +27,8 @@ MAPFRE-Insurance-Project/
 │   ├── BillingCenter.md
 │   ├── ClaimCenter.md
 │   ├── Job-Status-Monitoring.md
-│   └── Screenshots/
+│   └── Screenshots/![Gudie ware Job mortoring tool](https://github.com/user-attachments/assets/45e131a4-5636-42e8-a74c-a1866a3cbdb1)
+
 │
 ├── 2_ServiceNow-Ticketing/
 │   ├── README.md
