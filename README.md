@@ -36,4 +36,4 @@ MAPFRE-Insurance-Project/
 │   ├── Incident-LifeCycle.md
 │   └── Screenshots/
 │
-└── README.md
+
